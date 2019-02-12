@@ -1,0 +1,3 @@
+# ignore all of cgen directory
+blank-riscv-cgen/
+riscv-binutils-gdb/

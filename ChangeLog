@@ -1,5 +1,9 @@
 2019-02-11  Mary Bennett
-	* Added .gitignore
-	* Added clone.sh
-	* Added ChangeLog
-	* Cloned sail-riscv
+ * Added .gitignore
+ * Added clone.sh
+ * Added ChangeLog
+
+2019-02-12  Mary Bennett
+ * Updated .gitignore for riscv-binutils-gdb
+ * Updated clone.sh for riscv-binutils-gdb
+ * 
